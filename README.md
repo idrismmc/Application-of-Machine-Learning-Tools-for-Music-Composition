@@ -26,5 +26,5 @@ The ml_for_music.ipynb file contains the body of the code.
 
 ## Author
 
-* **Idris Mustafa** (u6733671)
+* **Idris Mustafa**
 
